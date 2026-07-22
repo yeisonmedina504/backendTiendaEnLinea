@@ -6,3 +6,6 @@
 
 # Environment Variables
 .env 
+
+#base de datos
+/../database/proyecto.sql
